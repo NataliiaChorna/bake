@@ -1,2 +1,2 @@
-# bake
-instruction for baking
+# Bake
+This is the instruction for baking something.
